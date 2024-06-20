@@ -6,13 +6,14 @@ Robotics Eng. at <a href="https://www.txtgroup.com/">TXT E-Tech</a>, RL-Research
 </p>
 
 ___
-
+<!--
 &nbsp;
     
 <p align="center", marginTop="100px">
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PietroDrd&include_all_commits=true&bg_color=eeeeee&hide_border=true&show_icons=true&count_private=true&icon_color=009BFF&title_color=009BFF&text_color=009BFF" alt="Pietro's github stats" /> </a></p>
 
 &nbsp;
+-->
 
 <h2 align="center"> Projects</h2>
 
