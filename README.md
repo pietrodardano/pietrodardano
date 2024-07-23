@@ -6,6 +6,12 @@ Robotics Eng. at <a href="https://www.txtgroup.com/">TXT E-Tech</a>, RL-Research
 </p>
 
 ___
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,python,c,cpp,bash,cmake,anaconda,docker,git,github,pytorch,tensorflow,latex,linux,ubuntu,md,htmx,matlab,ros,stackoverflow,notion,obsidian,arduino,raspberrypi&perline=12" />
+  </a>
+</p>
+
 <!--
 &nbsp;
     
