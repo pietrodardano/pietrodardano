@@ -19,7 +19,9 @@ ___
 
 * [`RL_Dog`](https://github.com/PietroDrd/RL_Dog) : Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
 * `ARTO_Thesis (Private)` : MSc Thesis Project on ML+XAI for cobot action validation in aeronautical environmnet [Overview](https://www.linkedin.com/posts/txtgroup_ai-robotics-innovation-activity-7180866636315267073-C0lW?utm_source=share&utm_medium=member_desktop)
+* [`RoboticsPapers`](https://github.com/PietroDrd/RoboticsPapers) : A collection of: <ins>important</ins>, <ins>interesting</ins>, <ins>pillars</ins> papers in Robotics, AI, ML, Control ... 
 * [`AEA`](https://www.aeapolimi.it) : The first Automation and Robotics Engineering Association of Politecnico di Milano.
+* 
 * ... Other past personal and university's projects will be uploaded soon ...
 
 ___
