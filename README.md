@@ -30,6 +30,13 @@ ___
 * 
 * ... Other past personal and university's projects will be uploaded soon ...
 
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PietroDrd/PietroDrd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PietroDrd/PietroDrd/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ___
 <!--
 **PietroDrd/PietroDrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
