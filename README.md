@@ -2,7 +2,7 @@
 
 ___
 <p align="center">
-Robotics Eng. at <a href="https://www.txtgroup.com/">TXT E-Tech</a>, RL-Research Intern at <a href="https://www.unitn.it/">Trento's University</a> and Automation-&-Control Eng. MSc. student at <a href="https://polimi.it/">Politecnico di Milano</a>.
+ <b>Robotics & Control Engineer</b>. Looking for PhD in Robotics: RL+Foundation Models. RL-Research Intern at <a href="https://www.unitn.it/">Trento's University</a>.
 </p>
 
 ___
@@ -23,13 +23,28 @@ ___
 
 <h2 align="center"> Projects</h2>
 
-* [`RL_Dog`](https://github.com/PietroDrd/RL_Dog) : Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
-* `ARTO_Thesis (Private)` : MSc Thesis Project on ML+XAI for cobot action validation in aeronautical environmnet [Overview](https://www.linkedin.com/posts/txtgroup_ai-robotics-innovation-activity-7180866636315267073-C0lW?utm_source=share&utm_medium=member_desktop)
-* [`RoboticsPapers`](https://github.com/PietroDrd/RoboticsPapers) : A collection of: <ins>important</ins>, <ins>interesting</ins>, <ins>pillars</ins> papers in Robotics, AI, ML, Control ...
-* [`RoboticsCompanies`](https://github.com/PietroDrd/RoboticsCompanies) : List of EU and US robotics companies, startups, research institutes.
-* [`AEA`](https://www.aeapolimi.it) : The first Automation and Robotics Engineering Association of Politecnico di Milano.
-* 
-* ... Other past personal and university's projects will be uploaded soon ...
+:on: [`RL_Dog`](https://github.com/PietroDrd/RL_Dog) : Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
+
+:soon: [`Ai_3D_Robot`](https://github.com/PietroDrd/Ai_3D_Robot): Personal project based on [LeRobot](https://github.com/huggingface/lerobot). 3D printed, classical control, LLM and VLM, RL.
+
+:lock: `ARTO_Thesis (Private)` : MSc Thesis Project on ML+XAI for cobot action validation in aeronautical environmnet [Overview](https://www.linkedin.com/posts/txtgroup_ai-robotics-innovation-activity-7180866636315267073-C0lW?utm_source=share&utm_medium=member_desktop).
+
+:white_check_mark: [`robotics_odo_slam`](https://github.com/PietroDrd/robotics_odo_slam): ROS based project on odometry and slam for a mobile omniwheeled robot.
+
+:soon: ... Other past personal and university's projects will be uploaded soon ...
+
+<!-- ------------------------------------------------------------------------------------------ -->
+<h2 align="center"> Miscellaneous </h2>
+
+:on: [`RoboticsPapers`](https://github.com/PietroDrd/RoboticsPapers) : Collection of selected (read) papers in Robotics, AI, ML, Control ...
+
+:on: [`RoboticsCompanies`](https://github.com/PietroDrd/RoboticsCompanies) : List of EU and US robotics companies, startups, research institutes.
+ 
+:white_check_mark: [`AEA`](https://www.aeapolimi.it) : The first Automation and Robotics Engineering Association of Politecnico di Milano.
+
+<h4 align="center"> :on: == Working on | :soon: == Starting | ✅ == Completed | :lock: == Private </h4>
+
+__
 
 <br clear="both">
 <picture>
