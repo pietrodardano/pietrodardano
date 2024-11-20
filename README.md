@@ -20,6 +20,7 @@ ___
 
 &nbsp;
 -->
+___
 
 <h2 align="center"> Projects</h2>
 
@@ -44,7 +45,7 @@ ___
 
 <h4 align="center"> :on: == Working on | :soon: == Starting | ✅ == Completed | :lock: == Private </h4>
 
-__
+___
 
 <br clear="both">
 <picture>
@@ -54,6 +55,7 @@ __
 </picture>
 
 ___
+
 <!--
 **PietroDrd/PietroDrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
