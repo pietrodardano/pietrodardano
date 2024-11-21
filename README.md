@@ -24,7 +24,9 @@ ___
 
 <h2 align="center"> Projects</h2>
 
-:on: [`RL_Dog`](https://github.com/PietroDrd/RL_Dog) : Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
+:on: [`RL_Dog`](https://github.com/PietroDrd/RL_Dog): Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
+
+:on:  [`Gimbal_Drift`](https://github.com/PietroDrd/gimbal_drift): Actuated rig for autnomous drones testing
 
 :soon: [`Ai_3D_Robot`](https://github.com/PietroDrd/Ai_3D_Robot): Personal project based on [LeRobot](https://github.com/huggingface/lerobot). 3D printed, classical control, LLM and VLM, RL.
 
