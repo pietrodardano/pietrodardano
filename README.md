@@ -2,7 +2,7 @@
 
 ___
 <p align="center">
- <b>Robotics & Control Engineer</b>. Looking for PhD in Robotics: RL+Foundation Models. RL-Research Intern at <a href="https://www.unitn.it/">Trento's University</a>.
+ <b>Robotics & Control Engineer</b>. Looking for PhD in Robotics: RL+Foundation Models.
 </p>
 
 ___
