@@ -1,4 +1,4 @@
-## ![https://github.com/PietroDrd/PietroDrd/Images/PDGhithub.png](https://github.com/PietroDrd/PietroDrd/blob/main/Images/PDGithub.png)
+## ![https://github.com/pietrodardano/pietrodardano/Images/PDGhithub.png](https://github.com/PietroDrd/PietroDrd/blob/main/Images/PDGithub.png)
 
 ___
 <p align="center">
@@ -24,24 +24,24 @@ ___
 
 <h2 align="center"> Projects</h2>
 
-:on: [`RL_Dog`](https://github.com/PietroDrd/RL_Dog): Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
+:on: [`RL_Dog`](https://github.com/pietrodardano/RL_Dog): Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
 
-:on:  [`Gimbal_Drift`](https://github.com/PietroDrd/gimbal_drift): Actuated rig for autnomous drones testing
+:on:  [`Gimbal_Drift`](https://github.com/pietrodardano/gimbal_drift): Actuated rig for autnomous drones testing
 
-:soon: [`Ai_3D_Robot`](https://github.com/PietroDrd/Ai_3D_Robot): Personal project based on [LeRobot](https://github.com/huggingface/lerobot). 3D printed, classical control, LLM and VLM, RL.
+:soon: [`Ai_3D_Robot`](https://github.com/pietrodardano/Ai_3D_Robot): Personal project based on [LeRobot](https://github.com/huggingface/lerobot). 3D printed, classical control, LLM and VLM, RL.
 
 :lock: `ARTO_Thesis (Private)` : MSc Thesis Project on ML+XAI for cobot action validation in aeronautical environmnet [Overview](https://www.linkedin.com/posts/txtgroup_ai-robotics-innovation-activity-7180866636315267073-C0lW?utm_source=share&utm_medium=member_desktop).
 
-:white_check_mark: [`robotics_odo_slam`](https://github.com/PietroDrd/robotics_odo_slam): ROS based project on odometry and slam for a mobile omniwheeled robot.
+:white_check_mark: [`robotics_odo_slam`](https://github.com/pietrodardano/robotics_odo_slam): ROS based project on odometry and slam for a mobile omniwheeled robot.
 
 :soon: ... Other past personal and university's projects will be uploaded soon ...
 
 <!-- ------------------------------------------------------------------------------------------ -->
 <h2 align="center"> Miscellaneous </h2>
 
-:on: [`RoboticsPapers`](https://github.com/PietroDrd/RoboticsPapers) : Collection of selected (read) papers in Robotics, AI, ML, Control ...
+:on: [`RoboticsPapers`](https://github.com/pietrodardano/RoboticsPapers) : Collection of selected (read) papers in Robotics, AI, ML, Control ...
 
-:on: [`RoboticsCompanies`](https://github.com/PietroDrd/RoboticsCompanies) : List of EU and US robotics companies, startups, research institutes.
+:on: [`RoboticsCompanies`](https://github.com/pietrodardano/RoboticsCompanies) : List of EU and US robotics companies, startups, research institutes.
  
 :white_check_mark: [`AEA`](https://www.aeapolimi.it) : The first Automation and Robotics Engineering Association of Politecnico di Milano.
 
@@ -51,8 +51,8 @@ ___
 
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PietroDrd/PietroDrd/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PietroDrd/PietroDrd/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietrodardano/pietrodardano/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietrodardano/pietrodardano/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
