@@ -1,11 +1,11 @@
 ## ![https://github.com/pietrodardano/pietrodardano/Images/PDGhithub.png](https://github.com/PietroDrd/PietroDrd/blob/main/Images/PDGithub.png)
 
-___
 <p align="center">
- <b>Robotics & Control Engineer</b>. Looking for PhD in Robotics: RL+Foundation Models.
+ <b>PhD Student in Robotics-Ai @ BMW & TU/e</b>
 </p>
 
 ___
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,python,c,cpp,bash,cmake,anaconda,docker,git,github,pytorch,tensorflow,latex,linux,ubuntu,md,htmx,matlab,ros,stackoverflow,notion,obsidian,arduino,raspberrypi&perline=12" />
@@ -20,15 +20,15 @@ ___
 
 &nbsp;
 -->
-___
+
 
 <h2 align="center"> Projects</h2>
 
 :on: [`RL_Dog`](https://github.com/pietrodardano/RL_Dog): Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
 
-:on:  [`Gimbal_Drift`](https://github.com/pietrodardano/gimbal_drift): Actuated rig for autnomous drones testing
+:on: [`RoboTac`](https://github.com/RoboTac-BMW): Mantaining repos and projects of my PhD - Lab
 
-:soon: [`Ai_3D_Robot`](https://github.com/pietrodardano/Ai_3D_Robot): Personal project based on [LeRobot](https://github.com/huggingface/lerobot). 3D printed, classical control, LLM and VLM, RL.
+:on:  [`Gimbal_Drift`](https://github.com/pietrodardano/gimbal_drift): Actuated rig for autnomous drones testing
 
 :lock: `ARTO_Thesis (Private)` : MSc Thesis Project on ML+XAI for cobot action validation in aeronautical environmnet [Overview](https://www.linkedin.com/posts/txtgroup_ai-robotics-innovation-activity-7180866636315267073-C0lW?utm_source=share&utm_medium=member_desktop).
 
