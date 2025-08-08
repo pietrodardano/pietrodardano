@@ -34,7 +34,7 @@ ___
 
 :white_check_mark: [`robotics_odo_slam`](https://github.com/pietrodardano/robotics_odo_slam): ROS based project on odometry and slam for a mobile omniwheeled robot.
 
-:soon: ... Other past personal and university's projects will be uploaded soon ...
+ ... Other past personal and university's projects will be uploaded soon ...
 
 <!-- ------------------------------------------------------------------------------------------ -->
 <h2 align="center"> Miscellaneous </h2>
@@ -45,7 +45,7 @@ ___
  
 :white_check_mark: [`AEA`](https://www.aeapolimi.it) : The first Automation and Robotics Engineering Association of Politecnico di Milano.
 
-<h4 align="center"> :on: == Working on | :soon: == Starting | ✅ == Completed | :lock: == Private </h4>
+<h4 align="center"> :on: == Working on | ✅ == Completed | :lock: == Private </h4>
 
 ___
 
