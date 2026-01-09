@@ -24,7 +24,7 @@ ___
 
 <h2 align="center"> Projects</h2>
 
-:on: ['RL_Arm'](https://github.com/pietrodardano/RL_Arm): Mujoco and IsaacLab envs for UR5e and FR3. Manipulation Tasks. Hopefully with tactile.
+:on: [`RL_Arm`](https://github.com/pietrodardano/RL_Arm): Mujoco and IsaacLab envs for UR5e and FR3. Manipulation Tasks. Hopefully with tactile.
 
 :on: [`RL_Dog`](https://github.com/pietrodardano/RL_Dog): Reinforced Learning algorithm and simulations for legged robot "AlienGo" walk and "STOP" policy.
 
