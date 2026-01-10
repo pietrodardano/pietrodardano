@@ -1,4 +1,4 @@
-## ![https://github.com/pietrodardano/pietrodardano/Images/PDGhithub.png](https://github.com/PietroDrd/PietroDrd/blob/main/Images/PDGithub.png)
+<!-- ## ![https://github.com/pietrodardano/pietrodardano/Images/PDGhithub.png](https://github.com/PietroDrd/PietroDrd/blob/main/Images/PDGithub.png) -->
 
 <p align="center">
  <b>PhD Student in Robotics-Ai @ BMW & TU/e</b>
